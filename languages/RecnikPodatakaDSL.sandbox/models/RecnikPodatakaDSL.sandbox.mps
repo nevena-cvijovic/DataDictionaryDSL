@@ -60,14 +60,14 @@
       </node>
       <node concept="16Mn67" id="K1$GLaPoJh" role="16Mn5r">
         <ref role="16Mn60" node="K1$GLaPoJ3" resolve="PttBroj" />
-        <node concept="16ODpw" id="K1$GLaPoJl" role="16Mn51">
-          <property role="16ODpx" value="8" />
-        </node>
         <node concept="16R4Gr" id="K1$GLaRG$E" role="16R4zr">
           <property role="TrG5h" value="obavezno" />
         </node>
         <node concept="170ETS" id="K1$GLb193H" role="170ES8">
           <property role="TrG5h" value="/" />
+        </node>
+        <node concept="16ODpw" id="4zy$h2r8xi2" role="16Mn51">
+          <property role="16ODpx" value="8" />
         </node>
       </node>
       <node concept="16Mn67" id="K1$GLaPoJo" role="16Mn5r">
@@ -130,7 +130,7 @@
           <property role="TrG5h" value="Sadrzi cifre i znak &quot;+&quot; samo na pocetku oznake; Obavezno" />
         </node>
         <node concept="170ETS" id="K1$GLb193P" role="170ES8">
-          <property role="TrG5h" value="/" />
+          <property role="TrG5h" value="Znak &quot;;&quot; se koristi za razdvajanje telefonskih brojeva" />
         </node>
       </node>
       <node concept="16Mn67" id="K1$GLaPoLp" role="16Mn5r">
@@ -154,7 +154,7 @@
           <property role="TrG5h" value="Sadrzi znak &quot;@&quot; i ima barem jednu tacku posle navedenog znaka a da ona nije na kraju" />
         </node>
         <node concept="170ETS" id="K1$GLb193V" role="170ES8">
-          <property role="TrG5h" value="/" />
+          <property role="TrG5h" value="Znak &quot;;&quot; se koristi za razdvajanje email adresa" />
         </node>
       </node>
       <node concept="16Mn67" id="K1$GLaQ3dh" role="16Mn5r">
